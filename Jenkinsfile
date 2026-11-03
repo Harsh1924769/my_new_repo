@@ -1,1 +1,1 @@
-./say_hello.sh
+ sh './say_hello.sh'
